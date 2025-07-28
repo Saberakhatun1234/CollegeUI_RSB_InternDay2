@@ -41,6 +41,11 @@
           <a href="index.php" class="hover:underline">Home</a>
 
           <a href="admissions.php" class="hover:underline">Admissions</a>
+           <a
+            href="infrastructure.php"
+            class="hover:underline "
+            >Sports</a
+          >
           <a href="contact.php" class="hover:underline">Contact</a>
         </div>
       </div>

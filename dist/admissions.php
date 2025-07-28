@@ -39,6 +39,16 @@
           <a href="index.php" class="hover:underline">Home</a>
           <a href="about.php" class="hover:underline">About</a>
           <a
+            href="infrastructure.php"
+            class="hover:underline"
+            >Infrastructure</a
+          >
+           <a
+            href="sports.php"
+            class="hover:underline "
+            >Sports</a
+          >
+          <a
             href="admissions.php"
             class="underline bg-blue-700 rounded px-2 py-1"
             >Admissions</a
