@@ -21,7 +21,7 @@
             alt="College Icon"
             class="w-8 h-8 inline-block"
           />
-          College Campus
+           R.T.C  Inter College
         </span>
         <!-- Hamburger button for mobile -->
         <button
@@ -113,7 +113,7 @@
     <!-- Footer -->
     <footer class="bg-blue-800 text-white text-center p-4 mt-8">
       <div class="container mx-auto">
-        &copy; 2024 College Campus. All rights reserved.
+        &copy; 2024  R.T.C  Inter College. All rights reserved.
       </div>
     </footer>
 

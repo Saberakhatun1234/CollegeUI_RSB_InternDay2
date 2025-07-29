@@ -20,7 +20,7 @@
             alt="College Icon"
             class="w-8 h-8 inline-block"
           />
-          College Campus
+           R.T.C  Inter College
         </span>
         <!-- Hamburger button for mobile -->
         <button
@@ -60,7 +60,7 @@
   <main class="flex-grow container mx-auto px-4 py-12">
     <h1 class="text-4xl font-bold mb-6 text-blue-800">About Our College</h1>
     <p class="text-lg mb-6 text-gray-700 leading-relaxed">
-      College Campus is dedicated to providing quality education and fostering a vibrant learning environment.
+       R.T.C  Inter College is dedicated to providing quality education and fostering a vibrant learning environment.
       Our mission is to empower students with knowledge, skills, and values to excel in their chosen fields.
     </p>
     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded m-5 w-full text-center"><a href="infrastructure.php">Go To College Infrastructure <i class="fa-solid fa-arrow-right"></i></a></button>
@@ -158,7 +158,7 @@ instruction.</p>
   <!-- Footer -->
    <footer class="bg-blue-800 text-white text-center p-4 mt-8">
       <div class="container mx-auto">
-        &copy; 2024 College Campus. All rights reserved.
+        &copy; 2024  R.T.C  Inter College. All rights reserved.
       </div>
     </footer>
 

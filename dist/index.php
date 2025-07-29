@@ -22,7 +22,7 @@
             alt="College Icon"
             class="w-8 h-8 inline-block"
           />
-          College Campus
+           R.T.C  Inter College
         </span>
         <!-- Hamburger button for mobile -->
         <button
@@ -110,11 +110,11 @@
 
     <!-- Center: Campus Info (wider) -->
     <div class="w-full lg:w-3/5 text-center">
-      <h1 class="text-4xl font-bold mb-4">Welcome to College Campus</h1>
+      <h1 class="text-4xl font-bold mb-4">Welcome to R.T.C  Inter College</h1>
       <p class="text-lg mb-6">A place to learn and grow.</p>
       <img
-        src="../images/collegeCampus.png"
-        alt="College Campus"
+        src="../images/collegeCampus.jpg"
+        alt=" R.T.C  Inter College"
         class="mx-auto rounded shadow-lg w-full max-w-lg"
       />
     </div>
@@ -162,14 +162,14 @@
 
     <!-- Right: location -->
     <div class="w-full lg:w-1/5   ">
-      <h2 class="text-2xl font-semibold mb-4 mt-25">Location of College Campus</h2>
+      <h2 class="text-2xl font-semibold mb-4 mt-25">Location of  R.T.C  Inter College</h2>
       <div class="bg-white rounded shadow p-4">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.452372581553!2d86.65189267306783!3d23.53128089715751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6f2069bf911a3%3A0x2296aacc4a13afa1!2sRaghunathpur%20College!5e1!3m2!1sen!2sin!4v1753525191480!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-full h-full rounded-2xl"></iframe>
       
       </div>
       <div class="bg-white rounded-2xl shadow p-4 mt-4">
         <h2 class="text-2xl font-semibold mb-4">Location</h2>
-        <p><strong>Address:</strong> College Campus More, Raghunathpur, Purulia, West Bengal,723133</p>
+        <p><strong>Address:</strong>  R.T.C  Inter College More, Raghunathpur, Purulia, West Bengal,723133</p>
     </div>
   </div>
 </section>
@@ -287,7 +287,7 @@
     <!-- Footer -->
     <footer class="bg-blue-800 text-white text-center p-4 mt-8">
       <div class="container mx-auto">
-        &copy; 2025 College Campus. All rights reserved.
+        &copy; 2025  R.T.C  Inter College. All rights reserved.
       </div>
     </footer>
   </body>
