@@ -171,9 +171,18 @@
         <h2 class="text-2xl font-semibold mb-4">Location</h2>
         <p><strong>Address:</strong>   FFCG+MFW, Near Ormanji Block Chowk, Ormanjhi, Ranchi, Jharkhand 835219</p>
     </div>
-    <div class=" rounded-2xl   mt-5">
-      <a href="faculty.php" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition">🤝  Faculty Details </a>
-        </div>
+    <div class="flex flex-wrap justify-center gap-4 mt-5">
+  <a href="faculty.php" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition duration-300">
+    🤝 Faculty Details
+  </a>
+  <a href="gallery.php" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition duration-300">
+    📸 Photo Gallery
+  </a>
+  <a href="faculty.php#syllabus" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition duration-300">
+    📘 Syllabus
+  </a>
+</div>
+
   </div>
 </section>
   

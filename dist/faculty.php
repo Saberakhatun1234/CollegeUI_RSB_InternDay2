@@ -181,7 +181,8 @@
 
   <section id="syllabus" class="py-16 px-4 bg-gray-100">
   <div class="max-w-6xl mx-auto text-center">
-    <h2 class="text-4xl font-bold mb-10 text-gray-800">📚 Syllabus</h2>
+    <h2 class="text-4xl font-bold mb-10 text-gray-800">📚 Syllabus <a href="#faculties"  >
+      <img src="../images/arrow_upward.svg" alt="Upward Arrow" class="w-10 h-10 inline-block ml-2 bg-gray-800 rounded-full "></a></h2>
 
     <div class="grid md:grid-cols-3 gap-8">
 
