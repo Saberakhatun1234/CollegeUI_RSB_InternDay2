@@ -164,13 +164,16 @@
     <div class="w-full lg:w-1/5   ">
       <h2 class="text-2xl font-semibold mb-4 mt-25">Location of  R.T.C  Inter College</h2>
       <div class="bg-white rounded shadow p-4">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.452372581553!2d86.65189267306783!3d23.53128089715751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6f2069bf911a3%3A0x2296aacc4a13afa1!2sRaghunathpur%20College!5e1!3m2!1sen!2sin!4v1753525191480!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-full h-full rounded-2xl"></iframe>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.5569230243223!2d85.47361707306524!3d23.471732099421782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4faf9d550ba9d%3A0xc67798ae32818110!2sRTC%20College!5e1!3m2!1sen!2sin!4v1753857788228!5m2!1sen!2sin"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-full h-full"></iframe>
       
       </div>
       <div class="bg-white rounded-2xl shadow p-4 mt-4">
         <h2 class="text-2xl font-semibold mb-4">Location</h2>
-        <p><strong>Address:</strong>  R.T.C  Inter College More, Raghunathpur, Purulia, West Bengal,723133</p>
+        <p><strong>Address:</strong>   FFCG+MFW, Near Ormanji Block Chowk, Ormanjhi, Ranchi, Jharkhand 835219</p>
     </div>
+    <div class=" rounded-2xl   mt-5">
+      <a href="faculty.php" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition">🤝  Faculty Details </a>
+        </div>
   </div>
 </section>
   

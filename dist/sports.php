@@ -104,9 +104,13 @@
           </ul>
         </div>
       </div>
+
+
+      
     </section>
 
     <hr>
+    
     
 
 <section class="min-h-screen bg-gray-100 py-12">
@@ -136,7 +140,9 @@
 
     <div class="flex flex-wrap justify-center gap-6">
       <a href="gallery.php" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition">📸 View Gallery</a>
-      <a href="joinClub.php" class="bg-green-600 hover:bg-green-800 text-white px-6 py-3 rounded-full font-medium transition">🤝 Sports Faculty </a>
+      <a href="faculty.php" class="bg-green-600 hover:bg-green-800 text-white px-6 py-3 rounded-full font-medium transition">🤝 View Faculty </a>
+      
+      <a href="faculty.php#syllabus" class="bg-blue-600 hover:bg-blue-800 text-white px-6 py-3 rounded-full font-medium transition">📚View Syllabus </a>
     </div>
   </div>
 </section>

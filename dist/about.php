@@ -64,6 +64,20 @@
       Our mission is to empower students with knowledge, skills, and values to excel in their chosen fields.
     </p>
     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded m-5 w-full text-center"><a href="infrastructure.php">Go To College Infrastructure <i class="fa-solid fa-arrow-right"></i></a></button>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-4 py-6">
+  <a href="gallery.php" class="block bg-blue-500 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition duration-300">
+    Go To Photo Gallery <i class="fa-solid fa-arrow-right"></i>
+  </a>
+  
+  <a href="Faculty.php" class="block bg-blue-500 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition duration-300">
+    Go To Faculty Details <i class="fa-solid fa-arrow-right"></i>
+  </a>
+  
+  <a href="Faculty.php#syllabus" class="block bg-blue-500 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition duration-300">
+    Go To College Syllabus <i class="fa-solid fa-arrow-right"></i>
+  </a>
+</div>
+
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-10 mt-8">
       <div class="bg-white shadow-md rounded-lg p-6">

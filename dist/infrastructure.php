@@ -108,6 +108,20 @@
         </div>
       </div>
     </section>
+     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-4 py-6">
+  <a href="gallery.php" class="block bg-blue-500 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition duration-300">
+    Go To Photo Gallery <i class="fa-solid fa-arrow-right"></i>
+  </a>
+  
+  <a href="Faculty.php" class="block bg-blue-500 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition duration-300">
+    Go To Faculty Details <i class="fa-solid fa-arrow-right"></i>
+  </a>
+  
+  <a href="Faculty.php#syllabus" class="block bg-blue-500 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition duration-300">
+    Go To College Syllabus <i class="fa-solid fa-arrow-right"></i>
+  </a>
+</div>
+
 
     <!-- Library Section -->
     <section class="max-w-5xl mx-auto px-4 mt-12">
