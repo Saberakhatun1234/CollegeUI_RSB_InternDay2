@@ -60,8 +60,8 @@
   <main class="flex-grow container mx-auto px-4 py-12">
     <h1 class="text-4xl font-bold mb-6 text-blue-800">About Our College</h1>
     <p class="text-lg mb-6 text-gray-700 leading-relaxed">
-       R.T.C  Inter College is dedicated to providing quality education and fostering a vibrant learning environment.
-      Our mission is to empower students with knowledge, skills, and values to excel in their chosen fields.
+    RTC Inter College, located in Ranchi, is a premier institution committed to delivering quality education and fostering all-round development among students. The college provides an enriching academic environment, guided by experienced faculty, to help students prepare for a successful future. With a focus on discipline, learning, and innovation, RTC Inter College continues to be a beacon of excellence in intermediate education.
+RTC Inter College is known for its consistent academic results and commitment to student success. Regular tests, mock exams, and doubt-clearing sessions are conducted to ensure comprehensive learning. Our alumni have excelled in competitive exams and prestigious universities, bringing pride to the institution.
     </p>
     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded m-5 w-full text-center"><a href="infrastructure.php">Go To College Infrastructure <i class="fa-solid fa-arrow-right"></i></a></button>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-4 py-6">
